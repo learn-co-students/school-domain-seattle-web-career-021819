@@ -1,5 +1,3 @@
-# code here!
-require 'pry'
 
 class School
   attr_reader :name, :roster
